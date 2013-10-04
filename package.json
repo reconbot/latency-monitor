@@ -1,0 +1,27 @@
+{
+  "name": "latency-monitor",
+  "version": "0.0.1",
+  "description": "Measures the latency of your internet connectino and displays it in your terminal titlebar",
+  "main": "index.js",
+  "dependencies": {
+    "net-ping": "~1.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reconbot/latency-monitor.git"
+  },
+  "keywords": [
+    "latency",
+    "ping",
+    "notification"
+  ],
+  "author": "Francis Gulotta <wizard@roborooter.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/reconbot/latency-monitor/issues"
+  }
+}

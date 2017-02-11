@@ -4,7 +4,7 @@
   "description": "Measures the latency of your internet connectino and displays it in your terminal titlebar",
   "main": "index.js",
   "dependencies": {
-    "net-ping": "~1.1.9"
+    "net-ping": "~1.2.0"
   },
   "devDependencies": {},
   "scripts": {
